@@ -1,0 +1,1 @@
+If you have complicated gitiddgnore patterns, or patterns spread over multiple 
